@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737920837142",
+    "project_id": "beancraft-coffee",
+    "storage_bucket": "beancraft-coffee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737920837142:android:829d713e15a80a70647737",
+        "android_client_info": {
+          "package_name": "com.beancraft.coffee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FFKiw3zv-uWJnkKYIa1ChygF3UX-jWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
